@@ -1,0 +1,89 @@
+site,query,title,company,location,is_remote,date_posted,min_amount,max_amount,job_url
+indeed,"""data scientist""","Senior Staff Data Scientist, Product",Intuit,"Mountain View, CA, USA",False,2026-10-20,210500.0,284500.0,https://www.indeed.com/viewjob?jk=3a55a4453520ac4b
+indeed,"""data scientist""","Data Engineering, Management, & Governance Manager - Finance",Accenture,"Mountain View, CA, USA",False,2026-10-20,87400.0,293800.0,https://www.indeed.com/viewjob?jk=177bd87feeecc592
+indeed,"""data scientist""",Staff Customer Experience Manager,Intuit,"Mountain View, CA, USA",False,2026-10-20,160000.0,227000.0,https://www.indeed.com/viewjob?jk=09435bf5d83af5d3
+indeed,"""data scientist""","Privacy Engineering Manager, PWG Laptops and Tablets",Google,"San Jose, CA, USA",False,2026-10-20,207000.0,300000.0,https://www.indeed.com/viewjob?jk=780e811b55b44f3e
+indeed,"""data scientist""",AI Sales Engineer,Fortinet,"Sunnyvale, CA, USA",False,2026-10-20,220000.0,260000.0,https://www.indeed.com/viewjob?jk=8339f6022f2a2bdf
+indeed,"""data scientist""","Software Engineer, Research Tooling",CURSOR,"Palo Alto, CA, USA",False,2026-10-20,,,https://www.indeed.com/viewjob?jk=322ad4440fb53f23
+indeed,"""data scientist""","Data Engineering, Management, & Governance Specialist - Finance",Accenture,"Mountain View, CA, USA",False,2026-10-20,59100.0,205800.0,https://www.indeed.com/viewjob?jk=8ecaec2368cead7d
+indeed,"""data scientist""","Senior Worldwide Specialist Solutions Architect - GenAI, Data & AI GTM",Amazon Web Services,"Santa Clara, CA, USA",False,2026-10-20,153600.0,207800.0,https://www.indeed.com/viewjob?jk=ce3e73bae52b3584
+indeed,"""data scientist""",Senior Principal Software Engineer,Palo Alto Networks,"Santa Clara, CA, USA",False,2026-10-20,183600.0,297000.0,https://www.indeed.com/viewjob?jk=5346ce04191ff5e3
+indeed,"""data scientist""","Sr. Customer Success Specialist, Applied AI, AWS WWSO CDS",Amazon Web Services,"East Palo Alto, CA, USA",False,2026-10-20,153600.0,239000.0,https://www.indeed.com/viewjob?jk=5cf7edb071a96a25
+indeed,"""data scientist""","Supply Chain Manager I , Network Design, Planning & Engineering",Amazon.com,"Santa Clara, CA, USA",False,2026-10-20,70700.0,106100.0,https://www.indeed.com/viewjob?jk=291553ae430bbd16
+indeed,"""data scientist""","Director, Stablecoin and Digital Assets Risk Intelligence & Strategy",Visa,"Foster City, CA, USA",False,2026-10-19,179000.0,287000.0,https://www.indeed.com/viewjob?jk=dec459a54e2db387
+indeed,"""data scientist""","Software Engineer, IT Infrastructure",Google,"Fremont, CA, USA",False,2026-10-19,174000.0,252000.0,https://www.indeed.com/viewjob?jk=e6ff6052fd495f01
+indeed,"""data scientist""","Expert Associate Partner, Commercial Excellence - B2B Pricing",Bain & Company,"Palo Alto, CA, USA",False,2026-10-19,260000.0,260000.0,https://www.indeed.com/viewjob?jk=934cd508ad33b1c8
+indeed,"""data scientist""","Senior Manager, Software Engineering",Walmart,"Sunnyvale, CA, USA",False,2026-10-19,143000.0,286000.0,https://www.indeed.com/viewjob?jk=0e3ff3be9003a383
+indeed,"""data scientist""","Senior Manager, Regulatory Affairs",Intuitive (Intuitive Surgical),"Sunnyvale, CA, USA",False,2026-10-19,158500.0,279700.0,https://www.indeed.com/viewjob?jk=e0ae460534db1eec
+indeed,"""data scientist""","(USA) Staff, Data Scientist",Walmart,"Sunnyvale, CA, USA",False,2026-10-19,143000.0,286000.0,https://www.indeed.com/viewjob?jk=6c985e46537b040f
+indeed,"""data scientist""",Staff Machine Learning Engineer,PayPal,"San Jose, CA, USA",False,2026-10-19,196500.0,291500.0,https://www.indeed.com/viewjob?jk=059bf7e68fa47205
+indeed,"""data scientist""",TECHNOLOGY ARCHITECT L1,Wipro,"Sunnyvale, CA, USA",False,2026-10-19,80000.0,173800.0,https://www.indeed.com/viewjob?jk=9e5c570e09c3373f
+indeed,"""data scientist""",Sr Product Manager,PayPal,"San Jose, CA, USA",False,2026-10-19,143500.0,212850.0,https://www.indeed.com/viewjob?jk=0a911791a5f27d06
+linkedin,"""data scientist""","Principal Data Scientist, AI Foundations",Capital One,"San Jose, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4481582539
+linkedin,"""data scientist""","Senior Data Scientists, Conversational AI",Walmart Global Tech,"Sunnyvale, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4356140930
+linkedin,"""data scientist""","Sr Applied Data Scientist - Search and Browse (applied ML, LLMs, ML Ops)",Target,"Sunnyvale, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4481785501
+linkedin,"""data scientist""","Senior Staff Data Scientist, Product",Intuit,"Mountain View, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4481551984
+linkedin,"""data scientist""",Product Data Scientist - Marketplace Logistics,Waymo,"Mountain View, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4480734173
+linkedin,"""data scientist""",Senior Data Scientist,Databricks,"Mountain View, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4478608438
+linkedin,"""data scientist""","(USA) Staff, Data Scientist",Walmart,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4478617934
+linkedin,"""data scientist""",Senior Staff Data Scientist,Grindr,"Palo Alto, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4306851773
+linkedin,"""data scientist""",Staff Data Scientist - Behavior Evaluation,Zoox,"Foster City, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4387480569
+linkedin,"""data scientist""","Staff Data Scientists, Conversational AI",Walmart Global Tech,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4356081190
+linkedin,"""data scientist""","Data Scientist II, Device Economics",Amazon Science,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4478642055
+linkedin,"""data scientist""","Senior Data Scientist, Web Quality and AI Context Engineering",Google,"Mountain View, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4471334987
+linkedin,"""data scientist""","Senior Data Scientist, Payment Analytics",TikTok USDS Joint Venture,"San Jose, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4480909606
+linkedin,"""data scientist""",Senior Data Scientist,Intuit,"Mountain View, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4427559841
+linkedin,"""data scientist""",Senior Applied Scientist,LinkedIn,"Mountain View, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4454072038
+linkedin,"""data scientist""",Data Scientist - TikTok Ads,TikTok,"San Jose, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4390422140
+linkedin,"""data scientist""","Data Scientist, Meta Superintelligence Labs (Safety)",Meta,"Menlo Park, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4461448119
+indeed,"""machine learning engineer""","Staff Machine Learning Engineer- Large Driving Model (LDM), Motion Planning, Autonomy",Rivian,"Palo Alto, CA, USA",False,2026-10-20,,,https://www.indeed.com/viewjob?jk=9242574c68257867
+indeed,"""machine learning engineer""",Machine Learning Engineer,Chooch,"San Mateo, CA, USA",False,2026-10-20,120000.0,180000.0,https://www.indeed.com/viewjob?jk=66cf01cf8c536bda
+indeed,"""machine learning engineer""",Principal Machine Learning Engineer,ServiceNow,"Santa Clara, CA, USA",False,2026-10-20,240100.0,420200.0,https://www.indeed.com/viewjob?jk=f604dc220a0d6b6f
+indeed,"""machine learning engineer""",Machine Learning Algorithm Engineer,Apple,"Cupertino, CA, USA",False,2026-10-20,150400.0,277600.0,https://www.indeed.com/viewjob?jk=ecce7ad001f82642
+indeed,"""machine learning engineer""",Principal Machine Learning Engineer,Cisco,"Milpitas, CA, USA",False,2026-10-20,263700.0,431000.0,https://www.indeed.com/viewjob?jk=3fb858948b94b6d1
+indeed,"""machine learning engineer""",AI Technical Lead,Crowe,"San Jose, CA, USA",False,2026-10-19,102400.0,204100.0,https://www.indeed.com/viewjob?jk=6ccee3ddc2239d76
+indeed,"""machine learning engineer""","Machine Learning Engineer, System Experience - Proactive",Apple,"Cupertino, CA, USA",False,2026-10-18,150400.0,277600.0,https://www.indeed.com/viewjob?jk=05898881be212212
+linkedin,"""machine learning engineer""",Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start,TikTok,"San Jose, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4449968567
+linkedin,"""machine learning engineer""","Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Palo Alto, CA",American Express,"Palo Alto, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4460613687
+linkedin,"""machine learning engineer""","Machine Learning Engineer, Foundational AI (FAI)",Amazon,"Sunnyvale, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4481788431
+linkedin,"""machine learning engineer""",Senior Machine Learning Engineer,Weee!,"Fremont, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4480496863
+linkedin,"""machine learning engineer""",Machine Learning Engineer Graduate (TikTok-Data-Search-Basic Ranking) - 2027 Start,TikTok,"San Jose, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4480484282
+linkedin,"""machine learning engineer""","Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Palo Alto, CA",American Express,"Palo Alto, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4460630299
+linkedin,"""machine learning engineer""",Staff Machine Learning Engineer,PayPal,"San Jose, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4481279487
+linkedin,"""machine learning engineer""",Machine Learning Engineer(Adobe),ScoutBetter,"San Jose, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4481279551
+linkedin,"""machine learning engineer""",Senior Machine Learning Engineer,Atoms,"Mountain View, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4407087323
+linkedin,"""machine learning engineer""",Machine Learning Engineer,MyOme,"Menlo Park, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4481281303
+linkedin,"""machine learning engineer""",Senior AI Engineer,Scout AI,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4480986940
+linkedin,"""machine learning engineer""",Senior Machine Learning Engineer - Semantics - AV Labs,Uber,"Sunnyvale, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4480879706
+linkedin,"""machine learning engineer""",Senior Applied ML Engineer,CoreWeave,"Sunnyvale, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4461812474
+linkedin,"""machine learning engineer""",Senior AI Engineer,Avathon,"Pleasanton, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4368396986
+linkedin,"""machine learning engineer""",Senior Machine Learning Engineer - Perception,Zoox,"Foster City, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4234744650
+indeed,"""research scientist""",Staff Research Scientist,MongoDB,"Palo Alto, CA, USA",False,2026-10-20,151000.0,297000.0,https://www.indeed.com/viewjob?jk=4dd02b9a811d000f
+indeed,"""research scientist""","Research Scientist, Machine Learning",Meta,"Menlo Park, CA, USA",False,2026-10-20,154000.0,217000.0,https://www.indeed.com/viewjob?jk=014ac71ddbf75854
+indeed,"""research scientist""",Research Scientist – Neuroscience,Stanford University,"Stanford, CA, USA",False,2026-10-20,80000.0,100000.0,https://www.indeed.com/viewjob?jk=bc796864da13037f
+indeed,"""research scientist""","Software Engineer, Full Stack, Learning and Education",Google,"Mountain View, CA, USA",False,2026-10-19,207000.0,300000.0,https://www.indeed.com/viewjob?jk=fe0e59692fad0584
+indeed,"""research scientist""","Research Scientist, AI for Graphics and Gaming - New College Grad 2026",NVIDIA,"Santa Clara, CA, USA",False,2026-10-19,168000.0,264500.0,https://www.indeed.com/viewjob?jk=5ef52520ff755a0e
+indeed,"""research scientist""",Senior Research Scientist for Generative AI,NVIDIA,"Santa Clara, CA, USA",False,2026-10-19,192000.0,356500.0,https://www.indeed.com/viewjob?jk=0a96cc55c286eb47
+indeed,"""research scientist""","Research Scientist, ML Systems - PhD New College Grad 2026",NVIDIA,"Santa Clara, CA, USA",False,2026-10-19,168000.0,264500.0,https://www.indeed.com/viewjob?jk=489c891b01a7c2fe
+indeed,"""research scientist""","Senior Research Scientist, Sensor Technology",Google,"Mountain View, CA, USA",False,2026-10-19,207000.0,300000.0,https://www.indeed.com/viewjob?jk=bce494851a0e5da9
+indeed,"""research scientist""","Senior Research Scientist, System Software and I/O Architecture",NVIDIA,"Santa Clara, CA, USA",False,2026-10-19,192000.0,356500.0,https://www.indeed.com/viewjob?jk=1e532508bb496c94
+linkedin,"""research scientist""",Senior Research Scientist - Autonomous Vehicles,NVIDIA,"Santa Clara, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4395472511
+linkedin,"""research scientist""","Senior Research Scientist, Cloud AI Research",Google,"Mountain View, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4462948531
+linkedin,"""research scientist""","Research Scientist, RL for Autonomous Planning & World Modeling",Waymo,"Mountain View, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4459707709
+linkedin,"""research scientist""",Research Scientist- Robotics AI,Bosch USA,"Sunnyvale, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4473082519
+linkedin,"""research scientist""","Research Scientist, Machine Learning",Meta,"Menlo Park, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4478696646
+linkedin,"""research scientist""",Senior Researcher,Toyota North America,"Mountain View, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4480727243
+linkedin,"""research scientist""","AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",Enigma,"San Jose, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4480482911
+linkedin,"""research scientist""",Research Scientist – Molecular Diagnostics,Bosch USA,"Sunnyvale, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4473095115
+linkedin,"""research scientist""","Research Scientist/Engineer, Autonomous Security, DeepMind",Google DeepMind,"Mountain View, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4471531626
+linkedin,"""research scientist""","Principal Applied Scientist, Fauna",Amazon,"Sunnyvale, CA, USA",False,2026-10-20,,,https://www.linkedin.com/jobs/view/4481776730
+linkedin,"""research scientist""",AI Researcher,Scout AI,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4480994609
+linkedin,"""research scientist""",Research Scientist - World Model,Luma,"Redwood City, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4445275723
+linkedin,"""research scientist""",Senior AI Researcher,Scout AI,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4480996549
+linkedin,"""research scientist""",Research Scientist - TikTok E-Commerce Recommendation Foundation,TikTok,"San Jose, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4480270186
+linkedin,"""research scientist""","Scientist, Atomic Force Microscopy (AFM)/ Nanoindentation",Eurofins | EAG Laboratories,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4481216156
+linkedin,"""research scientist""","Scientist, Atomic Force Microscopy (AFM)/ Nanoindentation",Eurofins,"Sunnyvale, CA, USA",False,2026-10-19,,,https://www.linkedin.com/jobs/view/4481213442
+linkedin,"""research scientist""",Senior Research Scientist for Generative AI,NVIDIA,"Santa Clara, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4395473386
+linkedin,"""research scientist""",Research Scientist - Reality Labs,Meta,"Sunnyvale, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4424861988
+linkedin,"""research scientist""","Research Scientist, AI",Biohub,"Redwood City, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4398639360
+linkedin,"""research scientist""","Principal Research Scientist, Robotics",Samsung Research America (SRA),"Mountain View, CA, USA",False,2026-10-18,,,https://www.linkedin.com/jobs/view/4441830803

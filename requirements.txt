@@ -1,0 +1,6 @@
+python-jobspy
+pypdf
+python-docx
+pydantic
+ollama
+pdfplumber
